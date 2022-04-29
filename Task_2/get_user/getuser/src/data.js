@@ -1,0 +1,51 @@
+const data = [
+    {
+      id: 1,
+      email: 'sundarpichai@gmail.com',
+      user_info: ' Sundar Pichai is the CEO of Google.',
+      first_name: 'Sundar',
+      last_name: 'Pichai',
+      avatar: 'https://miro.medium.com/max/1400/0*RnC0kSp1EYjrvWDC.jpg',
+    },
+    {
+      id: 2,
+      email: 'satyanadella@gmail.com',
+      user_info: 'Satya Nadella is the CEO of Microsoft',
+      first_name: 'Satya',
+      last_name: 'Nadella',
+      avatar: 'https://www.bloomberg.com/graphics/2020-highest-paid-ceos/img/nadella.jpg',
+    },
+    {
+      id: 3,
+      email: 'timcook@gmail.com',
+      user_info: 'Timothy Donald Cook is the CEO of Apple',
+      first_name: 'Tim',
+      last_name: 'Cook',
+      avatar: 'https://www.bloomberg.com/graphics/2020-highest-paid-ceos/img/cook.jpg',
+    },
+    {
+      id: 4,
+      email: 'elonmusk@gmail.com',
+      user_info: 'Elon Musk is the CEO of SpaceX ,Tesla',
+      first_name: 'Elon',
+      last_name: 'Musk',
+      avatar: 'https://www.bloomberg.com/graphics/2020-highest-paid-ceos/img/musk.jpg',
+    },
+    {
+      id: 5,
+      email: 'sumitsingh@gmail.com',
+      user_info: 'Sumit Singh is the CEO of Chewy.',
+      first_name: 'Sumit ',
+      last_name: 'Singh',
+      avatar: 'https://www.bloomberg.com/graphics/2020-highest-paid-ceos/img/singh.jpg',
+    },
+    {
+      id: 6,
+      email: 'paragagrawal@gmail.com',
+      user_info: 'Parag Agrawal is the CEO of Twitter',
+      first_name: 'Parag',
+      last_name: 'Agrawal',
+      avatar: 'https://pbs.twimg.com/media/FFX6H1wVkAcCQuj.jpg',
+    },
+  ];
+  export default data;
